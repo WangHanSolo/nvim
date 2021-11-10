@@ -10,6 +10,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'preservim/nerdtree'
     Plug 'dracula/vim'
     Plug 'jiangmiao/auto-pairs'
+    Plug 'bling/vim-airline'
 call plug#end()
 
 set number
